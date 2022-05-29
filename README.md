@@ -1,0 +1,2 @@
+# Registration-and-Login-System-using-Python
+It is a program written in Python language in which we check whether a login ID or password entered by a user is  valid or not. If the user chooses to login, we check whether the username and password entered by the user are valid or not. if the user chooses the forget password option, then he/she should be able to retrieve the password based on the existing email ID. If neither the username nor the password matches with the contents of the file, then the user should be asked to register.
